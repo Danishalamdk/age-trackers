@@ -1,0 +1,84 @@
+*
+{
+    margin:0px;
+
+
+}
+
+body
+{
+    background-image: linear-gradient(lightgrey,white);
+    background-repeat: no-repeat;
+    min-height: 535px;
+}
+  
+#danish
+{
+    width:22%;
+    height:420px;
+    padding:30px;
+    margin:auto;
+    margin-top:5%;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight:bold;
+    background-color: white;
+            
+}
+
+#btn1223    
+{
+        margin:35%;
+        margin-top:3%;
+        padding:10px;
+        width:80px;
+        border:none;
+        background-color: rgb(74, 101, 189);
+        color: white;
+        font-family: 'Courier New', Courier, monospace;
+        cursor: pointer;
+        font-weight:bold;
+}
+input[type="text"],input[type="password"]
+{
+    width:100%;
+    border:none;
+    outline:none;
+    border-bottom:1px solid black;
+}
+#loginh3
+{
+    display: flex;
+    justify-content: center;
+
+}
+#dkboss
+
+{
+    width:22%;
+    padding: 30px;
+    border:none;
+    margin:auto;
+    margin-top: 12%;
+    height:250px;
+    background-color: white;
+    font-weight: bold;
+
+}
+#loginh4
+{
+ display:flex;
+ justify-content: center;
+}
+#dkboss1
+
+{
+    width:22%;
+    padding: 30px;
+    border:none;
+    margin:auto;
+    margin-top: 12%;
+    height:280px;
+    background-color: white;
+    font-weight: bold;
+
+}
